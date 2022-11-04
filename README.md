@@ -1,2 +1,2 @@
-# CSC-405_Assignment01 by
+# CSC-405_Assignments by
 Prabhanjan Piwalatkar
